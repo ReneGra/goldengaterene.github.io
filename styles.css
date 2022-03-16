@@ -1,0 +1,74 @@
+#container{
+	width:1000px;
+	height:370px;
+	margin:0px auto;
+	border:solid 2px #CC9966 ;
+	background-color: #FFFDDD;
+	color: #222222;
+}
+
+body{
+	background-color:#FFF4C2;
+}
+
+#image #ball{
+	width:200px;
+	height:100px;
+	float:right;
+	border:solid 2px #CC9966 ;
+	text-align:center;
+	margin:8px 20px 0px 0px;
+}	
+
+#image #poop{
+	width:120px;
+	height:210px;
+	float:right;
+	border:solid 2px #CC9966 ;
+	text-align:center;
+	margin:8px 20px 0px 50px;
+
+}	
+
+#image #raw{
+	width:210px;
+	height:210px;
+	float:right;
+	border:solid 2px #CC9966 ;
+	text-align:center;
+	margin:8px 20px 0px 0px;
+}
+
+nav{
+	width:200px;
+	float:left;
+}
+
+nav ol li{
+	text-align:center;
+	padding:15px;
+	color:#222222;
+	margin:5px 0px 10px 10px;
+	list-style-type:none;
+	border:solid 2px #CC9966;
+}
+
+#main{
+
+	width:500px;
+	float:right;
+	text-align:left;
+}
+
+footer ol li{
+	clear:both;
+	display:inline;
+	border:#1e4620 solid 2px;
+	padding:8px;
+	margin:15px 2px;
+}
+footer{
+	margin:20px 2px 0px 2px;
+}
+
+
